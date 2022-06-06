@@ -1,0 +1,12 @@
+body{
+    background-image: url(logo.png);
+}
+
+button{
+    margin-left: 730;
+    margin-top: 500;
+    background-color: blue;
+}
+a{
+    color: yellow;
+}
